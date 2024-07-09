@@ -1,8 +1,16 @@
 # firstapp - mynotes
 
-A new Flutter project.
+Application developed using Dart, a programming language developed by Google, designed for web, server, mobile, and desktop application development. Its main goal is to provide a robust and efficient language for creating modern and reactive user interfaces.
 
-## Getting Started
+This is a notes web and mobile application. Somo of its most important functionalities are: 
+
+Program developed to learn the language and experiment with the fast development, object-oriented, and cross-platform features this technology offers.
+
+## Where to find the main code?
+
+The lib/ directory contains all the manually typed code. Flutter does the rest. ;)
+
+## Getting Started in Flutter
 
 This project is a starting point for a Flutter application.
 
